@@ -1,0 +1,5 @@
+LLVM (http://llvm.org/):
+  LLVM version 15.0.1
+  Optimized build.
+  Default target: x86_64-pc-windows-msvc
+  Host CPU: tigerlake
